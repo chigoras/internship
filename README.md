@@ -13,3 +13,9 @@
 - HTML/CSS Applying Jquery/getJSON 
 - [Completed YES/NO Execise](https://github.com/chigoras/yesno)
 
+### Day 5 (June 26, 2019)
+ -
+### Day 6 (June 27, 2019)
+- Able to Create Multiple Php Page (Linking)
+- Able to
+
